@@ -1,2 +1,3 @@
 Escribe CMD en el buscador de Windows (o Usa el atajo de teclado Windows + R y busca CMD) y desde la opción “ejecutar como administrador” abre el Símbolo del sistema.
     Y escribe este comando:  powercfg /batteryreport output “C:\estado-bateria.html”.
+ljlkjlkjkljlkjlkjlkj
